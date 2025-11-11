@@ -1,56 +1,33 @@
 # UI-UX-Experiment5
-
 ## Aim:
-To understand and apply the process of identifying user problems, selecting appropriate UX research methods, and creating user personas by designing and analyzing two different UX project scenarios — one being a NeoBank Smart Banking App and the other a Government Service Portal — in order to improve usability, accessibility, and overall user experience.
+To design and prototype an interactive Flipkart mobile application interface using Figma, focusing on an intuitive user experience for product browsing, searching, and purchasing.
 
 ## Algorithm:
-```
-Start the Experiment.
+Problem Identification:
+Understand user needs for a seamless e-commerce shopping experience.Analyze Flipkart’s existing UI and identify areas for simplification and improvement.
 
-Identify the Project Scenarios:
+Requirement Gathering:
+Tools: Figma (for design and prototyping).
+Components: Icons, images, typography, and Material Design / iOS UI kits.
 
-Scenario 1: NeoBank – Smart Banking App.
+Design Planning:
+Define primary screens: Home, Grocery, Product Search, and Product Details.Create a wireframe layout for each screen.
 
-Scenario 2: SmartGov – Government Service Portal.
+UI Design:
+Use color schemes and brand elements (Flipkart blue and yellow).Add navigation bars, product cards, icons, and text sections.Incorporate UI components from Material Design and Simple Design System libraries.
 
-Define User Problems:
+Prototype Creation:
+Link buttons and navigation elements between screens using Figma’s Prototype mode.Enable interactive flow (e.g., Home → Search → Product Details → Buy Now).
 
-Gather key pain points users face in each scenario.
+Testing and Feedback:
+Review prototype interactions for usability.Collect feedback and make necessary design adjustments.
 
-Write clear UX problem statements using the given format.
+Final Presentation:
+Export screens and demonstrate app navigation.Document the design flow and user journey.
 
-Select Suitable Research Methods:
-
-Choose appropriate UX research techniques such as surveys, interviews, or usability testing.
-
-Justify why each method is suitable for the scenario.
-
-Create User Personas:
-
-Analyze user data or assume realistic user types.
-
-Define each persona’s demographics, goals, behaviors, pain points, and motivations.
-
-Design Wireframes or Interface Mockups (Optional):
-
-For NeoBank, create a visually appealing dashboard showing balance, insights, and spending summary.
-
-Analyze and Document Findings:
-
-Compare how UX methods improve the usability of each scenario.
-
-Prepare Final Report:
-
-Include aim, algorithm, problem statements, research methods, personas, and screenshots.
-
-Upload the Files:
-
-Commit and push the lab report PDF and project files to the GitHub repository.
-
-End.
-```
 ## Output:
-<img width="1920" height="1200" alt="508845236-4be5a438-c2c1-4e89-ad27-5adbb9edf991" src="https://github.com/user-attachments/assets/cb073866-b830-4c8e-bd61-091051ef67b8" />
+
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/565be4c1-4745-4d59-99d7-bdd12356f8a1" />
 
 ## Result:
-The UX design process was successfully carried out for two different project scenarios — NeoBank Smart Banking App and SmartGov E-Governance Portal.
+The Flipkart mobile app prototype was successfully designed and developed using Figma.It includes multiple interactive screens that allow users to browse categories, search products, and view product details with a clean and consistent interface.
